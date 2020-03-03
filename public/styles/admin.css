@@ -1,0 +1,28 @@
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(104, 220, 241, 0.452);
+    margin-top: 0px;
+}
+
+.container{
+    border: 2px solid  rgba(104, 220, 241, 0.452);
+    padding: 0px;
+}
+
+.form{
+    padding: 10px 20px;
+}
+
+.row{
+    margin-bottom: 25px;
+}
+
+label{
+    text-align: right;
+}
+
+.hidden{
+    display: none;
+}
